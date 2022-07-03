@@ -1,4 +1,7 @@
-//Define struct point3 with x, y, z as member data.
+//Write parameter CTOR for point3 struct.
+//Create 2 object one on stack and one on heap. Note its CTOR and DTOR calls and scope.
+
+//Print inside constructor and desctrutor and add scope to variable on stack and heap - this helps in understanding scope when memory is allocated on stack or heap
 
 #include <iostream>
 #include <crtdbg.h>
