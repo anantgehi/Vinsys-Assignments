@@ -1,4 +1,6 @@
-//Define struct point3 with x, y, z as member data.
+//Define a class PointCloud which holds an dynamic array of Point3.
+
+//Observe memory allocation by adding print statements in constructor and desctructor
 
 #include <iostream>
 #include <crtdbg.h>
